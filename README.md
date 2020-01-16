@@ -12,3 +12,5 @@ Ieškant arba paspaudžiant vieną iš 15 blokų, matoma detalesnė informacija,
 Reikia turėti instaliavus PHP, tada reikia pasileisti ant php palaikančio web serverio, kaip XAMPP.
 Naudoant XAMPP sukurkite instaliacijos direktojijoje  `xampp\htdocs` folderį su norimu, bet kokiu pavadinimu ir įkelkite github
 atsisiųstus failus. Serveris pasiekamas per `http://localhost/sukurto folderio pavadinimas/`
+
+![alt text](https://i.imgur.com/XYlJwln.png)

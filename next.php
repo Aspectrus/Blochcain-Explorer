@@ -27,7 +27,6 @@ $temp=substr($temp,0,5);
 
 if($temp<>"error")
 {
-
 	echo "<h1 id='noborder'>RESULT<br>TRANSACTION INFO</h1>";
 	$traninfo=$ssh->exec('bitcoin-cli getrawtransaction '.$data.' 1');
 	//$traninfo=$ssh->exec('bitcoin-cli decoderawtransaction '.$traninfo,TRUE);
