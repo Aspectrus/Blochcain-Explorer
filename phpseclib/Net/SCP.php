@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Pure-PHP implementation of SCP.
  *
